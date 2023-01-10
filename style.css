@@ -133,8 +133,8 @@ body {
 }
 
 .user-image img {
-  width: 688px;
-  height: 400px;
+  width: 100%;
+  height: auto;
   margin-left: 16px;
   object-fit: cover;
 }
